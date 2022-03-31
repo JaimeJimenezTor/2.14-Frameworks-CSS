@@ -1,9 +1,9 @@
 .nav-custom
 {
-    background-color: rgb(87, 180, 173); 
+    background-color: rgb(36, 99, 182);
 }
 .footer-custom
 {
-    background-color: rgb(22, 214, 70);  /* Tenemos que llamarlo en el footer */
+   background-color: rgb(36, 99, 182); /* Tenemos que llamarlo en el footer */
     
 }
